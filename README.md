@@ -1,5 +1,5 @@
 # Scikit-learn
-Using this notebook we can learn simple PANDAS for Data science and Machine learning 
+Using this notebook we can learn simple SCIKIT-LEARN for Data science and Machine learning 
 
 - Basic operation and function apply on Over data and modeling 
 
